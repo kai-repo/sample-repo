@@ -4,3 +4,4 @@ Git練習用
 追加！
 add
 さらに追加
+mergetoolコンフリクト用(featureで上書き)
