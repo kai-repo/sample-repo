@@ -5,3 +5,4 @@ Git練習用
 更新(feature)
 vscode(wsl)で更新
 update on ubuntu
+update on mac
